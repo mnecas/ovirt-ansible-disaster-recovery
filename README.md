@@ -1,8 +1,6 @@
 oVirt Disaster Recovery
 =========
-
 The `oVirt.disaster-recovery` role responsible to manage the disaster recovery scenarios in oVirt.
-
 Requirements
 ------------
 
